@@ -2,7 +2,7 @@
 
 # wurt
 
-wurt is a character design project, a raven in a top hat, built as a mascot for truw in collaboration with hoff. it was put together by thomas and brenner.
+wurt is a character design project, a raven in a top hat, built as a mascot for truw in collaboration with hoff research.
 
 this folder gathers everything that came out of the design pass: the early sketches and skeleton studies, a full set of high-res action poses, and the rigged 3d models with animations ready to drop into a scene.
 
